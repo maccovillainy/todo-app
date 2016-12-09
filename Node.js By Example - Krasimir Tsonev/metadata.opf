@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">381265e7-3d3c-471a-9908-e864c8bc7184</dc:identifier>
+        <dc:title>Node.js by Example</dc:title>
+        <dc:creator opf:file-as="Tsonev, Krasimir" opf:role="aut">Krasimir Tsonev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-27T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Node.js is a JavaScript-driven technology, which means that developers can use the same language to write backend code. Its growing community and the large amount of available modules make Node.js one of the most attractive development environments.&lt;/p&gt;&lt;p&gt;Node.js By Example covers Node.js fundamentals and teaches you how to use its technology to architect a project. It shows you how to manage an application's assets and how to implement the Model-View-Controller pattern. The next few chapters demonstrate how to develop the features of your social network. It also empowers you to communicate with a database, including storing, retrieving, and deleting data. The book ends by discussing the most popular ways to test your user interface in an efficient way.&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00XJRN9S6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Languages &amp; Tools</dc:subject>
+        <dc:subject>Software Design; Testing &amp; Engineering</dc:subject>
+        <dc:subject>Software Development</dc:subject>
+        <dc:subject>Web Development &amp; Design</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Web Services</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>Networks; Protocols &amp; API's</dc:subject>
+        <meta content="{&quot;Krasimir Tsonev&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-05-28T22:06:58.913000+00:00" name="calibre:timestamp"/>
+        <meta content="Node.js by Example" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
